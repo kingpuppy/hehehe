@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>About</title>
+	
+	<link href="main_styles.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<div class="header">
+  <nav>
+		<ul>
+			<li><a href= "#"> Home </a></li>
+			<li><a href= "#">  About </a></li>
+			<li><a href= "#">  Services </a></li>
+			<li><a href= "#">  Meet Our Members</a></li>
+			<li><a href= "#">  Contact </a></li>
+			<li><a href= "#">  FAQs </a></li>
+			<li><a href= "#">  Blog </a></li>
+		</ul>
+	</nav>
+</div>
+	
+<div class= "content">	
+<div class="hero-image"> 
+	<div class="hero-text">
+		<h1> Welcome to Prep Pals!</h1>
+		<p> Everyday solutions to every day problems.</p>
+		<button class="hero-button"> Get Me Cooks!</button>
+	
+	</div>
+	</div>
+<div class="welcome"></div>
+	<aside> 
+		<h2> Welcome To Your Future </h2>
+		<p>Who We Are - 
+</p>
+	
+	</aside>
+	
+<div class="welcome_img">
+	<aside>
+	  <p>Who We Are -
+</p>
+	  <p></p>
+	</aside>
+
+	</div>
+	   </div>
+</body>
+</html>
